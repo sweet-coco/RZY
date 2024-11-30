@@ -9,11 +9,11 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188','0']
+global.owner = ['6285137397565','0']
 global.packname = 'Rzy botz'
 global.author = 'Rzy'
 global.botname = 'Rzy'
-global.listprefix = ['+','!']
+global.listprefix = ['#','!','.','/']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
 global.pairing_code = true
@@ -27,10 +27,10 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R',
-	ch: '120363250409960161@newsletter',
+	yt: 'https://youtube.com',
+	gh: 'https://github.com',
+	gc: 'https://chat.whatsapp.com',
+	ch: '829292982811818@newsletter',
 }
 
 global.limit = {
